@@ -4,6 +4,7 @@ This project is a Selenium-based automation framework built to test the function
 
 It demonstrates:
 - Automated browser testing using Selenium WebDriver
+- POM Design pattern usage
 - ChromeDriver integration
 - Test execution and validation scenarios
 
@@ -15,3 +16,11 @@ It demonstrates:
 - TestNG
 - log4j
 - Maven build tool
+
+## 🧪 Test Scenarios
+
+- Launch Chrome browser
+- Navigate to application
+- Validate page load
+- Perform user actions
+- Verify results
